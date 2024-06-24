@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/mwaqarulmulk" target="blank"><img src="https://img.shields.io/twitter/follow/mwaqarulmulk?logo=twitter&style=for-the-badge" alt="mwaqarulmulk" /></a> </p>
 
-- 🔭 I’m currently working on **Mart Management System**
+- 🔭 I’m currently learning Python and Django
 
 - 🌱 I’m currently learning **frameworks ,Spring**
 
