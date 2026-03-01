@@ -16,7 +16,7 @@
 
 ## 🧠 About Me
 
-- 🎓 CS Engineering student @ **COMSATS University Islamabad** (2022–2026)
+- 🎓 CS Engineering student @ **COMSATS University Islamabad**
 - 💼 ServiceNow Developer & Business Dev @ **Mavericks United**
 - 🔬 Research Assistant @ **TRU**
 - 🌍 Based in **Lahore, Pakistan** — open to **Remote US roles**
